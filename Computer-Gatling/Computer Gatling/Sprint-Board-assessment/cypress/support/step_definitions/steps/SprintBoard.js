@@ -1,4 +1,4 @@
-import data from '../../../../../testData/computer_Data.json'
+import data from '../../../../testData/computer_Data.json'
 import computerLocator from '../../../locators/computerName.json'
 
 

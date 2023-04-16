@@ -22,7 +22,7 @@
             "name": "The user open the url",
             "result": {
               "status": "passed",
-              "duration": 1520000000
+              "duration": 1421000000
             }
           },
           {
@@ -32,7 +32,7 @@
             "name": "The user click on computer name",
             "result": {
               "status": "passed",
-              "duration": 1523000000
+              "duration": 706000000
             }
           },
           {
@@ -42,7 +42,7 @@
             "name": "The user enter the introduced of computer",
             "result": {
               "status": "passed",
-              "duration": 334000000
+              "duration": 343000000
             }
           },
           {
@@ -52,7 +52,7 @@
             "name": "The user enter the Discontinued of computer",
             "result": {
               "status": "passed",
-              "duration": 336000000
+              "duration": 328000000
             }
           }
         ]
