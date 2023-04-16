@@ -1,5 +1,9 @@
 {
-  "computerName": "a[href=\"/computers/381\"]",
+  "newComputerButton": "#add",
+  "computerName": "#name",
   "introducedOfComputer": "#introduced",
-  "discontinuedOfComputer": "#discontinued"
+  "discontinuedOfComputer": "#discontinued",
+  "chooseCompanyFromDropDown": "#company",
+  "createThisComputerButton": "input[type=\"submit\"]"
+
 }

@@ -1,5 +1,7 @@
 {
   "computerDataBaseUrl": "https://computer-database.gatling.io/computers",
-  "introducedOfComputer": "Ace Computer",
-  "discontinuedOfComputer": "Ace Computer"
+  "computerName": "farooq",
+  "introducedOfComputer": "1989-05-05",
+  "discontinuedOfComputer": "1989-07-02",
+  "chooseCompanyFromDropDown": "Apple Inc."
 }
