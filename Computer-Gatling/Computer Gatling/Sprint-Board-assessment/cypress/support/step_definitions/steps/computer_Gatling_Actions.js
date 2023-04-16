@@ -2,7 +2,7 @@ import data from '../../../../testData/computer_Data.json'
 import computerLocator from '../../../locators/computerName.json'
 
 
-class SprintBoard {
+class Computer_Gatling_Actions {
     
     static openurl(){
      cy.visit(data.computerDataBaseUrl)
@@ -27,4 +27,4 @@ class SprintBoard {
         cy.get(computerLocator.createThisComputerButton).click()
     }
 }
-export default SprintBoard
+export default Computer_Gatling_Actions

@@ -1,24 +1,24 @@
 import {Then} from 'cypress-cucumber-preprocessor/steps'
-import SprintBoard from './steps/SprintBoard'
+import Computer_Gatling_Actions from './steps/computer_Gatling_Actions'
 
 Then(/^The user open the url$/, function () {
-    SprintBoard.openurl()
+    Computer_Gatling_Actions.openurl()
 });
 Then (/^The user click on computer name$/, function () {
-   SprintBoard.computerName()
+   Computer_Gatling_Actions.computerName()
 });
 Then(/^The user enter the introduced of computer$/, function () {
- SprintBoard.introducedOfComputer()
+ Computer_Gatling_Actions.introducedOfComputer()
 });
 Then(/^The user enter the Discontinued of computer$/, function () {
- SprintBoard.discontinuedOfComputer()
+ Computer_Gatling_Actions.discontinuedOfComputer()
 });
 Then(/^The user select the company from drop down$/, function () {
-SprintBoard.chooseCompanyFromDropDown()
+Computer_Gatling_Actions.chooseCompanyFromDropDown()
 });
 Then(/^The user click on create this Computer Button$/, function () {
-SprintBoard.createThisComputerButton()
+Computer_Gatling_Actions.createThisComputerButton()
 });
 Then(/^The user click on add new computer button$/, function () {
-SprintBoard.newComputerButton()
+Computer_Gatling_Actions.newComputerButton()
 });
