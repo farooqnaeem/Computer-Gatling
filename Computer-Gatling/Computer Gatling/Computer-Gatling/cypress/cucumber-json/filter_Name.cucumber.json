@@ -22,7 +22,7 @@
             "name": "The user enter the computer name in filter field.",
             "result": {
               "status": "passed",
-              "duration": 3034000000
+              "duration": 4749000000
             }
           },
           {
@@ -32,7 +32,7 @@
             "name": "The user click on filter by Name Button",
             "result": {
               "status": "passed",
-              "duration": 630000000
+              "duration": 513000000
             }
           },
           {
@@ -42,7 +42,7 @@
             "name": "The user click on computer gatling icon",
             "result": {
               "status": "passed",
-              "duration": 549000000
+              "duration": 598000000
             }
           }
         ]
