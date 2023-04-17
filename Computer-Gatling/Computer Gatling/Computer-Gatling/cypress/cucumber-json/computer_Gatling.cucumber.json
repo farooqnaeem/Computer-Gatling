@@ -10,7 +10,7 @@
       {
         "id": "end-to-end-flow-of-sprint-board;login-to-the-application-and-complete-flow-of-board-create.",
         "keyword": "Scenario",
-        "line": 17,
+        "line": 5,
         "name": "Login to the application and complete flow of board create.",
         "tags": [],
         "type": "scenario",
@@ -22,7 +22,7 @@
             "name": "The user open the url",
             "result": {
               "status": "passed",
-              "duration": 2997000000
+              "duration": 1584000000
             }
           },
           {
@@ -32,7 +32,7 @@
             "name": "The user click on add new computer button",
             "result": {
               "status": "passed",
-              "duration": 537000000
+              "duration": 1551000000
             }
           },
           {
@@ -42,7 +42,7 @@
             "name": "The user click on computer name",
             "result": {
               "status": "passed",
-              "duration": 230000000
+              "duration": 229000000
             }
           },
           {
@@ -52,7 +52,7 @@
             "name": "The user enter the introduced of computer",
             "result": {
               "status": "passed",
-              "duration": 305000000
+              "duration": 287000000
             }
           },
           {
@@ -62,7 +62,7 @@
             "name": "The user enter the Discontinued of computer",
             "result": {
               "status": "passed",
-              "duration": 305000000
+              "duration": 313000000
             }
           },
           {
@@ -72,7 +72,7 @@
             "name": "The user select the company from drop down",
             "result": {
               "status": "passed",
-              "duration": 156000000
+              "duration": 151000000
             }
           },
           {
@@ -82,7 +82,7 @@
             "name": "The user click on create this Computer Button",
             "result": {
               "status": "passed",
-              "duration": 896000000
+              "duration": 2353000000
             }
           }
         ]
