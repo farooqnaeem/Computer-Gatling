@@ -22,7 +22,7 @@
             "name": "The user open the url",
             "result": {
               "status": "passed",
-              "duration": 601000000
+              "duration": 599000000
             }
           },
           {
@@ -32,7 +32,7 @@
             "name": "The user click on add new computer button",
             "result": {
               "status": "passed",
-              "duration": 509000000
+              "duration": 513000000
             }
           },
           {
@@ -42,7 +42,7 @@
             "name": "The user click on computer name",
             "result": {
               "status": "passed",
-              "duration": 229000000
+              "duration": 241000000
             }
           },
           {
@@ -52,7 +52,7 @@
             "name": "The user enter the introduced of computer",
             "result": {
               "status": "passed",
-              "duration": 298000000
+              "duration": 315000000
             }
           },
           {
@@ -62,7 +62,7 @@
             "name": "The user enter the Discontinued of computer",
             "result": {
               "status": "passed",
-              "duration": 301000000
+              "duration": 300000000
             }
           },
           {
@@ -72,7 +72,7 @@
             "name": "The user select the company from drop down",
             "result": {
               "status": "passed",
-              "duration": 142000000
+              "duration": 141000000
             }
           },
           {
@@ -82,7 +82,7 @@
             "name": "The user click on create this Computer Button",
             "result": {
               "status": "passed",
-              "duration": 796000000
+              "duration": 728000000
             }
           }
         ]
