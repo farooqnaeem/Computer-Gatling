@@ -26,5 +26,14 @@ class Computer_Gatling_Actions {
     static createThisComputerButton(){
         cy.get(computerLocator.createThisComputerButton).click()
     }
+    static filterName(){
+        cy.get(computerLocator.filterName).type(data.filterName)
+    }
+    static filterByNameButton(){
+        cy.get(computerLocator.filterByNameButton).click()
+    }
+    static computerGatlingIcon(){
+        cy.get(computerLocator.computerGatlingIcon).click()
+    }
 }
 export default Computer_Gatling_Actions

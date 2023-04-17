@@ -1,0 +1,52 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Computer Gatling Automation flow",
+    "line": 1,
+    "id": "computer-gatling-automation-flow",
+    "tags": [],
+    "uri": "filter_Name.feature",
+    "elements": [
+      {
+        "id": "computer-gatling-automation-flow;filter-the-name-of-created-computer.",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Filter the name of Created Computer.",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 5,
+            "name": "The user enter the computer name in filter field.",
+            "result": {
+              "status": "passed",
+              "duration": 3052000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "The user click on filter by Name Button",
+            "result": {
+              "status": "passed",
+              "duration": 556000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 7,
+            "name": "The user click on computer gatling icon",
+            "result": {
+              "status": "passed",
+              "duration": 514000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

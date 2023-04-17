@@ -4,6 +4,9 @@
   "introducedOfComputer": "#introduced",
   "discontinuedOfComputer": "#discontinued",
   "chooseCompanyFromDropDown": "#company",
-  "createThisComputerButton": "input[type=\"submit\"]"
+  "createThisComputerButton": "input[type=\"submit\"]",
+  "filterName": "#searchbox",
+  "filterByNameButton": "#searchsubmit",
+  "computerGatlingIcon": "a[class=\"fill\"]"
 
 }

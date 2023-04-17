@@ -1,17 +1,17 @@
 [
   {
     "keyword": "Feature",
-    "name": "End to end flow of Sprint board",
+    "name": "Computer Gatling Automation flow",
     "line": 2,
-    "id": "end-to-end-flow-of-sprint-board",
+    "id": "computer-gatling-automation-flow",
     "tags": [],
     "uri": "computer_Gatling.feature",
     "elements": [
       {
-        "id": "end-to-end-flow-of-sprint-board;login-to-the-application-and-complete-flow-of-board-create.",
+        "id": "computer-gatling-automation-flow;complete-flow-of-computer-creation.",
         "keyword": "Scenario",
         "line": 5,
-        "name": "Login to the application and complete flow of board create.",
+        "name": "Complete flow of computer Creation.",
         "tags": [],
         "type": "scenario",
         "steps": [
@@ -22,7 +22,7 @@
             "name": "The user open the url",
             "result": {
               "status": "passed",
-              "duration": 1584000000
+              "duration": 601000000
             }
           },
           {
@@ -32,7 +32,7 @@
             "name": "The user click on add new computer button",
             "result": {
               "status": "passed",
-              "duration": 1551000000
+              "duration": 509000000
             }
           },
           {
@@ -52,7 +52,7 @@
             "name": "The user enter the introduced of computer",
             "result": {
               "status": "passed",
-              "duration": 287000000
+              "duration": 298000000
             }
           },
           {
@@ -62,7 +62,7 @@
             "name": "The user enter the Discontinued of computer",
             "result": {
               "status": "passed",
-              "duration": 313000000
+              "duration": 301000000
             }
           },
           {
@@ -72,7 +72,7 @@
             "name": "The user select the company from drop down",
             "result": {
               "status": "passed",
-              "duration": 151000000
+              "duration": 142000000
             }
           },
           {
@@ -82,7 +82,7 @@
             "name": "The user click on create this Computer Button",
             "result": {
               "status": "passed",
-              "duration": 2353000000
+              "duration": 796000000
             }
           }
         ]

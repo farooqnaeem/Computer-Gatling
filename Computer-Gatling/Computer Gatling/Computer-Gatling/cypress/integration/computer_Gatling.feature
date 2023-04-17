@@ -11,6 +11,3 @@ Scenario: Complete flow of computer Creation.
   Then The user select the company from drop down
   Then The user click on create this Computer Button
 
-
-# The Second example has filter the name of created computer.
-  Scenario: Filter the name of Created Computer.
